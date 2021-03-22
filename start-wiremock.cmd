@@ -1,0 +1,1 @@
+java -jar wiremock-standalone-2.27.2.jar --global-response-templating --port 8080
